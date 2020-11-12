@@ -7,10 +7,10 @@ int main(int argc, char** argv)
     printf("ingrese con que tabla quiere iniciar\n");
     scanf("%d", &x);
     int t= 1;
-    int r;
+    int r ;
     printf("ingrese hasta que numero desea multiplicar\n");
     scanf("%d", &r);
-    int l;
+    int l ;
     printf("ingrese hasta que tabla quiere multiplicar\n");
     scanf ("%d", &l);
 
