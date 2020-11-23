@@ -12,6 +12,6 @@ int main(int argc, char** argv)
         a = a + b ;
         b = b + a ; }
 
-    return (EXIT_SUCCESS);
+    return 0;
 }
 
