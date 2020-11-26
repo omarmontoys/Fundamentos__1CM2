@@ -35,6 +35,7 @@
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="Ejercicio 3 el mayor de 4 numeros.c">
 			<Option compilerVar="CC" />
@@ -47,6 +48,11 @@
 			<Option link="0" />
 		</Unit>
 		<Unit filename="Ejercico 2 el mayor de 3 numeros.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="Problema_1_promedio.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
@@ -66,8 +72,26 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="metodo_burbuja.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="metodo_burbuja_optimizado.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="scanf_y_arreglo.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="valor_minimo_y_maximo_arreglos..c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
