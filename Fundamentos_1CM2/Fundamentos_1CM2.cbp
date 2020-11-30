@@ -72,6 +72,10 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="libreria_(math.h).c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
 		<Unit filename="metodo_burbuja.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
@@ -80,6 +84,8 @@
 		</Unit>
 		<Unit filename="metodo_burbuja_optimizado.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="scanf_y_arreglo.c">
