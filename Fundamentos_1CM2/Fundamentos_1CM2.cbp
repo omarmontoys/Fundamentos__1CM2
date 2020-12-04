@@ -67,6 +67,9 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="converciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="for_tablas_de_multiplicar.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
@@ -74,6 +77,8 @@
 		</Unit>
 		<Unit filename="libreria_(math.h).c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="metodo_burbuja.c">
