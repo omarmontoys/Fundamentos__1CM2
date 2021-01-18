@@ -192,6 +192,16 @@
 			<Option compile="0" />
 			<Option link="0" />
 		</Unit>
+		<Unit filename="array and character part 1.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
+		<Unit filename="array and character part 2.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="converciones.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
