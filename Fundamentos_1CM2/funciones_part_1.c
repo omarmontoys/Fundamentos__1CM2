@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "funciones.h"
+#include "funciones_part_2.h"
 
 
 float PI = 3.1452;

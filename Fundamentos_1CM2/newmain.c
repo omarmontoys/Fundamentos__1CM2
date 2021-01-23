@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "funciones.h"
+#include "funciones_part_2.h"
 
 int main()
 {

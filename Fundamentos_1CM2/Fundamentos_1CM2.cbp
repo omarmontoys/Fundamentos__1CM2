@@ -37,6 +37,11 @@
 			<Option link="0" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
+		<Unit filename="CODIGO_ASCII.c">
+			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
+		</Unit>
 		<Unit filename="Cuadernillo problema 1.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
@@ -214,6 +219,8 @@
 		</Unit>
 		<Unit filename="funciones_part_1.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
 		</Unit>
 		<Unit filename="funciones_part_2.h" />
 		<Unit filename="libreria_(math.h).c">
@@ -236,6 +243,8 @@
 		</Unit>
 		<Unit filename="newmain.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
 		</Unit>
 		<Unit filename="scanf_y_arreglo.c">
 			<Option compilerVar="CC" />
