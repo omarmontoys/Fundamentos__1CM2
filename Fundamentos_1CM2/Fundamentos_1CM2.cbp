@@ -189,11 +189,16 @@
 		</Unit>
 		<Unit filename="Recursividad_Fibonacci.c">
 			<Option compilerVar="CC" />
+			<Option compile="0" />
+			<Option link="0" />
 		</Unit>
 		<Unit filename="Tablas_de_multiplicar.c">
 			<Option compilerVar="CC" />
 			<Option compile="0" />
 			<Option link="0" />
+		</Unit>
+		<Unit filename="Torres de hanoi.c">
+			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="While serie fibonacci.c">
 			<Option compilerVar="CC" />
